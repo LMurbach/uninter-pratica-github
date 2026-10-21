@@ -18,7 +18,7 @@ O desenvolvimento do site do zero não faz parte da minha autoria. Este reposit�
 
 ## Visualizar o site
 
-[Abrir o exercício no GitHub Pages](https://lmurbach.github.io/fds.uninter/)
+[Abrir o exercício no GitHub Pages](https://lmurbach.github.io/uninter-pratica-github/)
 
 Para visualizar localmente, baixe os arquivos do repositório e abra `index.html` em um navegador, mantendo a estrutura de pastas. A página utiliza HTML, CSS, Bootstrap e jQuery presentes no material recebido; isso não representa uma declaração de domínio dessas tecnologias.
 
